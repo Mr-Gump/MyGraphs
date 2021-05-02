@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-02T07:56:16.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="HIyzcZc9ghSDr8yM2rto" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-02T15:00:38.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="MUSTWX9IuZhsTH9w-Vfj" version="14.6.9" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="865" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,6 +367,18 @@
         </mxCell>
         <mxCell id="ibiOvaf428c_ur1__1NF-27" value="&lt;span&gt;这里与对历史数据的&lt;/span&gt;&lt;br&gt;&lt;span&gt;计算完全相同&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
           <mxGeometry x="2190" y="391" width="120" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="ibiOvaf428c_ur1__1NF-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.8_point_star;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2367.5" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ibiOvaf428c_ur1__1NF-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.8_point_star;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2387.5" y="581" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ibiOvaf428c_ur1__1NF-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.8_point_star;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3272.5" y="571" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ibiOvaf428c_ur1__1NF-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.8_point_star;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="581" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
